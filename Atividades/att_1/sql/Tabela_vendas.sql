@@ -1,2 +1,3 @@
--- Script SQL para criar a tabela de vendas
+-- Script SQL para criar a tabela de vendas.
+
 
