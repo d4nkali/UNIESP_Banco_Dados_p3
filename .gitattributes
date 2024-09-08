@@ -6,3 +6,6 @@
 # Convertendo para lf
 
 *.sql eol=lf
+*.md eol=lf
+*.txt eol=lf
+
