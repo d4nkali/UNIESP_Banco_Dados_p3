@@ -6,7 +6,7 @@ CREATE TABLE public.vendas (
 	data_compra varchar(50) NULL,
 	forma_pagamento varchar(50) NULL,
 	quantidade integer NULL,
-	valor_compra varchar(50) NULL,
+	valor_compra float4 NULL,
 	data_prevista_entrega varchar(50) NULL,
 	data_entrega varchar(50) NULL
 );
