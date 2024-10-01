@@ -6,4 +6,4 @@
 
 3. Crie uma subconsulta para obter a quantidade total de vendas para cada produto e, em seguida, liste os produtos que tiveram mais de 50 vendas.
 
-4. 
+4. Utilize uma CTE para calcular o total de vendas por estado e, em seguida, liste os estados com o maior total de vendas.
