@@ -4,5 +4,8 @@
 
 2. Escreva uma consulta para listar todos os produtos na categoria 'Eletrônicos' com seus respectivos valores.
 
-3. Questão 3 - Crie uma subconsulta para obter a quantidade total de vendas para cada produto e, em seguida, liste os produtos que tiveram mais de 50 vendas.
+3. Calcule o total de vendas (valor_compra) para cada usuário e ordene os resultados em ordem decrescente de valor total.
+
+4. Obtenha uma lista de usuários que fizeram compras com cartão de crédito
+('forma_pagamento' é igual a 'Cartão de Crédito').
 

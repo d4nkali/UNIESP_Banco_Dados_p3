@@ -1,7 +1,7 @@
 /*
 
-Questão 3 - Crie uma subconsulta para obter a quantidade total de vendas para cada produto e, em
-seguida, liste os produtos que tiveram mais de 50 vendas.
+Questão 3 - Calcule o total de vendas (valor_compra) para cada usuário e ordene os resultados em
+ordem decrescente de valor total.
 
 */
 select
