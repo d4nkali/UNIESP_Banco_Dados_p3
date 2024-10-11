@@ -9,3 +9,4 @@
 4. Obtenha uma lista de usuários que fizeram compras com cartão de crédito
 ('forma_pagamento' é igual a 'Cartão de Crédito').
 
+5. Calcule a média de valor de compra por produto na categoria 'Roupas' e liste os produtos com valores acima dessa média.

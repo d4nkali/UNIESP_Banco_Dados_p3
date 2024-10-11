@@ -1,6 +1,6 @@
 /*
 
-Questao 4 - Obtenha uma lista de usuários que fizeram compras com cartão de crédito
+Questão 4 - Obtenha uma lista de usuários que fizeram compras com cartão de crédito
 ('forma_pagamento' é igual a 'Cartão de Crédito').
 
 */
