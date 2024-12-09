@@ -7,6 +7,7 @@ Atividades/att_trigger/Quest_1.sql linguist-language=plpgsql
 Atividades/att_trigger/Quest_2.sql linguist-language=plpgsql
 Atividades/att_trigger/Quest_3.sql linguist-language=plpgsql
 Atividades/att_trigger/Scipts.sql linguist-language=plpgsql
+01_11_24/Exemplo_trigger.sql linguist-language=plpgsql
 
 # Convertendo para lf
 *.sql eol=lf
