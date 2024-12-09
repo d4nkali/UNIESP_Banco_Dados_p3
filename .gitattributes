@@ -1,11 +1,14 @@
 # Colocando sql como linguagem no github
-
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 
-# Convertendo para lf
+# Colocando atividades trigger como PLpgSQL
+Atividades/att_trigger/Quest_1.sql linguist-language=plpgsql
+Atividades/att_trigger/Quest_2.sql linguist-language=plpgsql
+Atividades/att_trigger/Quest_3.sql linguist-language=plpgsql
+Atividades/att_trigger/Scipts.sql linguist-language=plpgsql
 
+# Convertendo para lf
 *.sql eol=lf
 *.md eol=lf
 *.txt eol=lf
-
